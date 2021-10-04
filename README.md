@@ -3,5 +3,5 @@
 
 ## Preview
 
-!["Gaber preview"](https://raw.githubusercontent.com/aber-templates/js-calendar/blob/main/preview/light.png "GABER preview")	
+!["Gaber preview"](https://raw.githubusercontent.com/gaber-templates/js-calendar/main/preview/light.png "GABER preview")	
 !["Gaber Dark preview"](https://raw.githubusercontent.com/gaber-templates/js-calendar/main/preview/dark.png "GABER preview")	
